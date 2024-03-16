@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "18827139928",
+    "project_id": "omega-linker-398819",
+    "storage_bucket": "omega-linker-398819.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18827139928:android:aa3979fa9a06ebffd8632d",
+        "android_client_info": {
+          "package_name": "com.talabi.talibi_user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwPO3OteAUn-KUUdrO2W8zSNi0bESozgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
